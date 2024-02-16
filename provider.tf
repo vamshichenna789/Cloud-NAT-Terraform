@@ -1,5 +1,5 @@
 provider "google" {
-  project = "devops-practice-411411"
+  project = <>
   region  = "us-central1"
   scopes  = ["https://www.googleapis.com/auth/compute"]
 
